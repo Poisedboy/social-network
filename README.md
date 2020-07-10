@@ -1,2 +1,3 @@
 # social-network
-Project was written on Reactjs. And temporarily not working, has no connection to server.
+Project was written on Reactjs. 
+Temporarily not working, has no connection to server.
