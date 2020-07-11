@@ -1,0 +1,13 @@
+.descriptionBlock {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.descriptionBlock img {
+    border-radius: 50%;
+}
+.avatarSize {
+    max-width: 250px;
+}
